@@ -1,0 +1,1 @@
+execute as @e[tag=chest,type=armor_stand] at @s run setblock ~ ~ ~ air replace
